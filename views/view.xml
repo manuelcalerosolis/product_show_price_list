@@ -15,7 +15,7 @@
                     <field name="pricelist_t06"/>
                     <field name="pricelist_t04"/>
                     <field name="pricelist_t03"/>
-                     <field name="pricelist_t01"/>
+                    <field name="pricelist_t01"/>
                 </xpath>
             </field>
         </record>
