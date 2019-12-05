@@ -10,12 +10,12 @@
             <field name="arch" type="xml">
                 <xpath expr="//field[@name='standard_price']" position="after">
                    <!-- <field name="pricelist_1"/> -->
-                    <field name="pricelist_t12"/>
-                    <field name="pricelist_t10"/>
-                    <field name="pricelist_t06"/>
-                    <field name="pricelist_t04"/>
-                   <!-- <field name="pricelist_t03"/> -->
-                    <field name="pricelist_t01"/>
+                    <field name="pricelist_2"/>
+                    <field name="pricelist_3"/>
+                    <field name="pricelist_4"/>
+                    <field name="pricelist_5"/>
+                    <field name="pricelist_6"/>
+                    <field name="pricelist_7"/>
                 </xpath>
             </field>
         </record>
