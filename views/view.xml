@@ -14,8 +14,8 @@
                     <field name="pricelist_3"/>
                     <field name="pricelist_4"/>
                     <field name="pricelist_5"/>
+                   <!-- <field name="pricelist_7"/> -->
                     <field name="pricelist_6"/>
-                    <field name="pricelist_7"/>
                 </xpath>
             </field>
         </record>
