@@ -16,20 +16,20 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. module: product_show_price_list
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_5
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_5
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_t04
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_t04
 msgid "Fifth pricelist"
 msgstr "T-04"
 
 #. module: product_show_price_list
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_1
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_1
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_pub
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_pub
 msgid "First pricelist"
 msgstr "Tarifa pública"
 
 #. module: product_show_price_list
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_4
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_4
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_t06
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_t06
 msgid "Fourth pricelist"
 msgstr "T-06"
 
@@ -39,20 +39,25 @@ msgid "Product Template"
 msgstr "Plantilla de producto"
 
 #. module: product_show_price_list
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_2
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_2
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_t12
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_t12
 msgid "Second pricelist"
 msgstr "T-12"
 
 #. module: product_show_price_list
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_6
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_6
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_t01
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_t01
 msgid "Sixth pricelist"
 msgstr "T-01"
 
 #. module: product_show_price_list
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_3
-#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_3
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_t10
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_t10
 msgid "Third pricelist"
 msgstr "T-10"
 
+#. module: product_show_price_list
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_product__pricelist_t03
+#: model:ir.model.fields,field_description:product_show_price_list.field_product_template__pricelist_t03
+msgid "Seventh pricelist"
+msgstr "T-03"
